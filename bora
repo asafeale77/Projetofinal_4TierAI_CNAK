@@ -1,0 +1,20 @@
+import datetime
+
+def boas_vindas():
+    nome = input("Digite seu nome: ")
+    hora_atual = datetime.datetime.now().hour
+    
+    # Define a saudação baseada no horário
+    if 5 <= hora_atual < 12:
+        saudacao = "Bom dia"
+    elif 12 <= hora_atual < 18:
+        saudacao = "Boa tarde"
+    else:
+        saudacao = "Boa noite"
+
+    print(f"\n{'='*30}")
+    print(f"✨ {saudacao}, {nome}!")
+    print("É um prazer ter você de volta ao sistema.")
+    print(f"{'='*30}")
+
+boas_vindas()
