@@ -1,0 +1,15 @@
+{
+    "metadados": {
+        "criado_em": "2026-05-06T01:03:28.310734",
+        "ultima_atualizacao": "2026-05-06T01:03:28.310790",
+        "total_eventos": 0,
+        "versao": "1.0"
+    },
+    "eventos": [],
+    "alertas_ativos": [],
+    "veiculos_presentes": {},
+    "ocupacao_atual": {},
+    "historico_placas": {},
+    "lista_bloqueio": [],
+    "lista_atencao": []
+}
