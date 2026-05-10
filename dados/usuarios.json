@@ -1,0 +1,43 @@
+{
+    "metadados": {
+        "total_usuarios": 1
+    },
+    "usuarios": [
+        {
+            "id": "3E91CDBA",
+            "nome": "asafe",
+            "cpf": "234567",
+            "email": "asdfgh@asdfgh.com",
+            "telefone": "2379876543",
+            "senha": "dbghjkmghnfhbf",
+            "perfil": "Administrador",
+            "nivel_acesso": 3,
+            "nivel_acesso_descricao": "Nível 3 - Acesso Total",
+            "status": "Pendente",
+            "idade": 30,
+            "faixa_etaria": "Adulto",
+            "nome_loja": null,
+            "cargo": null,
+            "shopping_principal": "Todos",
+            "shoppings_acesso": [
+                "Todos"
+            ],
+            "placa_veiculo": "asd-3456",
+            "historico_visitas": [],
+            "lojas_frequentadas": [],
+            "tempo_medio_permanencia": 0,
+            "horario_preferido": null,
+            "frequencia_visitas": 0,
+            "ultima_visita": null,
+            "preferencias": {
+                "categorias_lojas": [],
+                "forma_pagamento": null,
+                "grupo_social": null
+            },
+            "criado_em": "2026-05-06T02:46:59.532025",
+            "atualizado_em": "2026-05-06T02:46:59.532034",
+            "criado_por": "dashboard",
+            "observacoes": ""
+        }
+    ]
+}
